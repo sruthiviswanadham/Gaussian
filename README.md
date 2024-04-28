@@ -45,7 +45,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](/home/sec/Pictures/Screenshots/MATHS FOR AI SS EXP 6.png)
+[OUTPUT](/home/sec/Pictures/Screenshots/MATHS FOR AI SS EXP 6.png)
 
 
 ## Result:
