@@ -45,7 +45,7 @@ for i in range(n):
 ```
 
 ## Output:
-[MATHS FOR AI SS EXP 6](https://github.com/sruthiviswanadham/Gaussian/assets/151760421/0c21dab8-ca4c-47e1-af0b-d3111aa84b38)
+![OUTPUT](<MATHS FOR AI SS EXP 6-1.png>)
 
 
 
