@@ -19,8 +19,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: VISWANADHAM VENKATA SAI SRUTHI
 RegisterNumber: 212223100061
-*/
-```
+/*
 
 import numpy as np
 import sys
