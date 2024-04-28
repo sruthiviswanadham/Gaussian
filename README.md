@@ -21,6 +21,7 @@ Developed by: VISWANADHAM VENKATA SAI SRUTHI
 RegisterNumber: 212223100061
 */
 ```
+
 import numpy as np
 import sys
 n=int(input())
@@ -44,6 +45,7 @@ for i in range(n-2,-1,-1):
     x[i]=x[i]/a[i][i]
 for i in range(n):
    print('X%d = %0.2f' %(i,x[i]),end = ' ')
+   '''
 
 ## Output:
 ![gaussian elimination](/home/sec/Pictures/Screenshots/MATHS FOR AI SS EXP 6.png)
